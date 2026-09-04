@@ -1,0 +1,14 @@
+{
+  "name": "x-bulk-scheduler",
+  "version": "0.1.0",
+  "description": "Open-source Tweet scheduler for bulk tweets, scheduling rules, publishing windows, multi-account workflows and X/Twitter content automation.",
+  "type": "module",
+  "bin": { "x-bulk-scheduler": "src/cli.js" },
+  "scripts": { "test": "node --test", "lint": "node --check src/scheduler.js && node --check src/cli.js", "build": "node --check src/scheduler.js && node --check src/cli.js", "seo": "node scripts/seo-check.mjs" },
+  "keywords": ["tweet-scheduler", "twitter-scheduler", "tweet-scheduling", "x-scheduling", "bulk-tweets", "bulk-scheduling", "x-automation", "twitter-automation", "social-media-automation", "social-media-scheduling"],
+  "repository": { "type": "git", "url": "https://github.com/SimplyBuildSoftware/x-bulk-scheduler.git" },
+  "bugs": { "url": "https://github.com/SimplyBuildSoftware/x-bulk-scheduler/issues" },
+  "homepage": "https://github.com/SimplyBuildSoftware/x-bulk-scheduler#readme",
+  "license": "MIT",
+  "engines": { "node": ">=20" }
+}
