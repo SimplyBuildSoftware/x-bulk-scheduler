@@ -1,0 +1,5 @@
+[
+  { "id": "tweet-1", "text": "Example tweet one", "media": [], "group": "campaign-a" },
+  { "id": "tweet-2", "text": "Example tweet two", "media": ["image.jpg"], "group": "campaign-a" },
+  { "id": "tweet-3", "text": "Example tweet three", "media": [], "group": "campaign-b" }
+]
