@@ -1,0 +1,4 @@
+text,media,publish_group
+"Example tweet one",,campaign-a
+"Example tweet two","image.jpg",campaign-a
+"Example tweet three",,campaign-b
