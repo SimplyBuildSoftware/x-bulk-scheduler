@@ -118,6 +118,10 @@ Always comply with X platform policies, API limits, applicable laws, and account
 
 This is responsible **X automation**: the engine prepares an auditable queue for an authorized publishing adapter, while the operator remains accountable for approval and platform compliance.
 
+## Screenshots
+The source website exposes public interface imagery for its dashboard, account management, and automation modules. The docs/images/ path is reserved for authorized, brand-neutral captures; no image is included without a verified redistribution path. Any future capture must be labeled as source-product context, not as a screenshot of this reference implementation.
+<img width="1384" height="1210" alt="image" src="https://github.com/user-attachments/assets/6b0846ca-8a81-417f-869c-27eeb2ae978c" />
+
 ## FAQ
 
 ### What is a Tweet scheduler?
@@ -159,6 +163,17 @@ Yes. Helpers and sample files are included.
 ### Does this project bypass X API limits?
 
 No. It supports responsible scheduling and platform compliance only.
+
+## Disclaimer
+
+Reference: https://www.tweetattackspro.com/
+
+X (formerly Twitter) is governed by its own Terms of Service, platform policies, API rules, and automated activity restrictions.
+
+This project is provided for legitimate development, research, testing, and other responsible use. Users are solely responsible for ensuring that their use of this project complies with X's policies, applicable laws, and other relevant requirements.
+
+This project is not intended to facilitate spam, abusive activity, unauthorized access, or the circumvention of X's security, rate limits, or anti-abuse mechanisms.
+
 
 ## Contributing and License
 
